@@ -1,4 +1,4 @@
-//: [Contents](Contents)
+//: [Contents](Contents) | [Next](@next)
 /*:
  # Advent of Code 2017
  ## Day 1: Inverse Captcha
@@ -96,4 +96,4 @@ assert(i == 4)
 
 let answer2 = calculateCaptcha2(input: input)
 print("Part 2: \(answer2)")
-//: [Contents](Contents)
+//: [Contents](Contents) | [Next](@next)
