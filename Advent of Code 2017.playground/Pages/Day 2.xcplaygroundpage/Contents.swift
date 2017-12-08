@@ -1,4 +1,4 @@
-//: [Previous](@previous) | [Contents](Contents)
+//: [Previous](@previous) | [Contents](Contents) | [Next](@next)
 /*:
  # Advent of Code 2017
  ## Day 2: Corruption Checksum
@@ -121,4 +121,4 @@ assert(example2Checksum == 9)
 
 let answer2 = calculateChecksum(input: input, rowCalculation: calculateEvenDivisionForRow)
 print("Part 2: \(answer2)")
-//: [Previous](@previous) | [Contents](Contents)
+//: [Previous](@previous) | [Contents](Contents) | [Next](@next)
