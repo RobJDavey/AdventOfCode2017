@@ -7,4 +7,5 @@
  3. [Day 3: Spiral Memory](Day%203)
  4. [Day 4: High-Entropy Passphrases](Day%204)
  5. [Day 5: A Maze of Twisty Trampolines, All Alike](Day%205)
+ 6. [Day 6: Memory Reallocation](Day%206)
  */

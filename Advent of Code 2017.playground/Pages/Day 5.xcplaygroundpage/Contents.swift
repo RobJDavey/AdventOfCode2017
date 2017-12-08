@@ -1,4 +1,4 @@
-//: [Previous](@previous) | [Contents](Contents)
+//: [Previous](@previous) | [Contents](Contents) | [Next](@next)
 /*:
  # Advent of Code 2017
  ## Day 5: A Maze of Twisty Trampolines, All Alike
@@ -57,4 +57,4 @@ assert(example2 == 10)
 
 let answer2 = countJumpsToExit(input: values, updateValue: part2Updater)
 print("Part 2: \(answer2)")
-//: [Previous](@previous) | [Contents](Contents)
+//: [Previous](@previous) | [Contents](Contents) | [Next](@next)
