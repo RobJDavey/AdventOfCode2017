@@ -1,4 +1,4 @@
-//: [Previous](@previous) | [Contents](Contents)
+//: [Previous](@previous) | [Contents](Contents) | [Next](@next)
 /*:
  # Advent of Code 2017
  ## Day 6: Memory Reallocation
@@ -47,4 +47,4 @@ print("Part 1: \(answer1)")
  */
 let answer2 = repeated - initial
 print("Part 2: \(answer2)")
-//: [Previous](@previous) | [Contents](Contents)
+//: [Previous](@previous) | [Contents](Contents) | [Next](@next)
