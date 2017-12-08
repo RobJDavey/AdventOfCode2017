@@ -1,4 +1,4 @@
-//: [Previous](@previous) | [Contents](Contents)
+//: [Previous](@previous) | [Contents](Contents) | [Next](@next)
 /*:
  # Advent of Code 2017
  ## Day 4: High-Entropy Passphrases
@@ -79,4 +79,4 @@ assert(h == false)
 
 let answer2 = countValidPasswords(passwords: lines, validation: isPasswordValid2)
 print("Part 2: \(answer2)")
-//: [Previous](@previous) | [Contents](Contents)
+//: [Previous](@previous) | [Contents](Contents) | [Next](@next)
