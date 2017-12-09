@@ -1,4 +1,4 @@
-//: [Previous](@previous) | [Contents](Contents)
+//: [Previous](@previous) | [Contents](Contents) | [Next](@next)
 /*:
  # Advent of Code 2017
  ## Day 8: I Heard You Like Registers
@@ -178,4 +178,4 @@ assert(example2 == 10)
 
 let answer2 = result.peak
 print("Part 2: \(answer2)")
-//: [Previous](@previous) | [Contents](Contents)
+//: [Previous](@previous) | [Contents](Contents) | [Next](@next)

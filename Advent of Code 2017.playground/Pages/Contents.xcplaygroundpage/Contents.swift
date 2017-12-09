@@ -10,4 +10,5 @@
  6. [Day 6: Memory Reallocation](Day%206)
  7. [Day 7: Recursive Circus](Day%207)
  8. [Day 8: I Heard You Like Registers](Day%208)
+ 9. [Day 9: Stream Processing](Day%209)
  */
