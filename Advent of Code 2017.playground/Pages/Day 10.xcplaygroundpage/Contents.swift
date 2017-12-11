@@ -1,4 +1,4 @@
-//: [Previous](@previous) | [Contents](Contents)
+//: [Previous](@previous) | [Contents](Contents) | [Next](@next)
 /*:
  # Advent of Code 2017
  ## Day 10: Knot Hash
@@ -102,4 +102,4 @@ assert(d == "63960835bcdc130f0b66d7ff4f6a5a8e")
 
 let answer2: String = knotHash(input)
 print("Part 2: \(answer2)")
-//: [Previous](@previous) | [Contents](Contents)
+//: [Previous](@previous) | [Contents](Contents) | [Next](@next)

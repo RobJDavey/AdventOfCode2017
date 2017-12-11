@@ -12,4 +12,5 @@
  8. [Day 8: I Heard You Like Registers](Day%208)
  9. [Day 9: Stream Processing](Day%209)
  10. [Day 10: Knot Hash](Day%2010)
+ 11. [Day 11: Hex Ed](Day%2011)
  */
