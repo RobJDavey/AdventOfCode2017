@@ -13,4 +13,5 @@
  9. [Day 9: Stream Processing](Day%209)
  10. [Day 10: Knot Hash](Day%2010)
  11. [Day 11: Hex Ed](Day%2011)
+ 12. [Day 12: Digital Plumber](Day%2012)
  */
