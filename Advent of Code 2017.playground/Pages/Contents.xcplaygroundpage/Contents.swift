@@ -16,4 +16,5 @@
  12. [Day 12: Digital Plumber](Day%2012)
  13. [Day 13: Packet Scanners](Day%2013)
  14. [Day 14: Disk Defragmentation](Day%2014)
+ 15. [Day 15: Dueling Generators](Day%2015)
  */
