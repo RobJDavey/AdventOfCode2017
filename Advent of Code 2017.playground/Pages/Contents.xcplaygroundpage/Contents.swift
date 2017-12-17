@@ -18,4 +18,5 @@
  14. [Day 14: Disk Defragmentation](Day%2014)
  15. [Day 15: Dueling Generators](Day%2015)
  16. [Day 16: Permutation Promenade](Day%2016)
+ 17. [Day 17: Spinlock](Day%2017)
  */
