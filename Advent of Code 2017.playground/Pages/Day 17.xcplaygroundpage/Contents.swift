@@ -1,4 +1,4 @@
-//: [Previous](@previous) | [Contents](Contents)
+//: [Previous](@previous) | [Contents](Contents) | [Next](@next)
 /*:
  # Advent of Code 2017
  ## Day 17: Spinlock
@@ -61,4 +61,4 @@ let part2Iterations = 50_000_000
 
 let answer2 = solvePart2(iterations: part2Iterations, step: input)
 print("Part 2: \(answer2)")
-//: [Previous](@previous) | [Contents](Contents)
+//: [Previous](@previous) | [Contents](Contents) | [Next](@next)
