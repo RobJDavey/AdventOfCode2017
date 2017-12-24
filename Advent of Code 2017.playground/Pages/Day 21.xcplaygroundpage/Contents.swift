@@ -1,4 +1,4 @@
-//: [Previous](@previous) | [Contents](Contents)
+//: [Previous](@previous) | [Contents](Contents) | [Next](@next)
 /*:
  # Advent of Code 2017
  ## Day 21: Fractal Art
@@ -177,4 +177,4 @@ print("Part 1: \(answer1)")
 let part2Iterations = 18
 let answer2 = run(on: &grid, map: maps, iterations: part2Iterations - part1Iterations)
 print("Part 2: \(answer2)")
-//: [Previous](@previous) | [Contents](Contents)
+//: [Previous](@previous) | [Contents](Contents) | [Next](@next)
