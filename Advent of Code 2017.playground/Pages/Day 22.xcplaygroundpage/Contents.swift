@@ -1,4 +1,4 @@
-//: [Previous](@previous) | [Contents](Contents)
+//: [Previous](@previous) | [Contents](Contents) | [Next](@next)
 /*:
  # Advent of Code 2017
  ## Day 22: Sporifica Virus
@@ -234,4 +234,4 @@ assert(example2 == 2_511_944)
 
 let answer2 = run(startInfo: startInfo, count: 10_000_000, transform: part2Transformation)
 print("Part 2: \(answer2)")
-//: [Previous](@previous) | [Contents](Contents)
+//: [Previous](@previous) | [Contents](Contents) | [Next](@next)

@@ -24,4 +24,5 @@
  20. [Day 20: Particle Swarm](Day%2020)
  21. [Day 21: Fractal Art](Day%2021)
  22. [Day 22: Sporifica Virus](Day%2022)
+ 23. [Day 23: Coprocessor Conflagration](Day%2023)
  */
