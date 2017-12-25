@@ -26,4 +26,5 @@
  22. [Day 22: Sporifica Virus](Day%2022)
  23. [Day 23: Coprocessor Conflagration](Day%2023)
  24. [Day 24: Electromagnetic Moat](Day%2024)
+ 25. [Day 25: The Halting Problem](Day%2025)
  */

@@ -1,4 +1,4 @@
-//: [Previous](@previous) | [Contents](Contents)
+//: [Previous](@previous) | [Contents](Contents) | [Next](@next)
 /*:
  # Advent of Code 2017
  ## Day 24: Electromagnetic Moat
@@ -92,4 +92,4 @@ print("Part 1: \(answer1)")
 let bridge2 = createBridge(with: components, selector: part2Selector)
 let answer2 = score(for: bridge2)
 print("Part 2: \(answer2)")
-//: [Previous](@previous) | [Contents](Contents)
+//: [Previous](@previous) | [Contents](Contents) | [Next](@next)
